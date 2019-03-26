@@ -1,0 +1,2 @@
+# AndroidRxNet
+一个用RxJava2实现的Android网络监听库，可以监听是否有网络连接，网络连接的类型，wifi是否连接，wifi信号强度
