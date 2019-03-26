@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidRxNet</string>
+    <string name="go_to_settings">去打开</string>
+    <string name="permission_rationale">应用依赖一些权限才能正确运行</string>
+</resources>
